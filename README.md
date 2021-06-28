@@ -7,15 +7,19 @@ AUTOMATIC HACK APPLY.
 HOW TO USE ??
 IT REQUIRES PYTHON3 TO RUN AND MANY LIBRARIES, INSTALL THEM ALL BY COPY AND PASTING SOME BASIC COMMANDS IN TERMUX.
 
-pkg install python3
+$ git clone https://github.com/Ishaan87/BGMI-AUTO-G4/
 
-pip install wget
+$ cd BGMI-AUTO-G4
 
-pip install shutil
+$ pkg install python3
 
-pip install time
+$ pip install wget
 
-pip install tqdm
+$ pip install shutil
+
+$ pip install time
+
+$ pip install tqdm
 
 NOW YOU WILL GET 2 OPTIONS -
 
